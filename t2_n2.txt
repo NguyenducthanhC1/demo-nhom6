@@ -1,2 +1,6 @@
 ndt2
+<<<<<<< HEAD
 thÃ nh Ä‘Ã£ sá»­a
+=======
+khánh dã t?i dây d? s?a
+>>>>>>> f5d545ad0a492baf43579df000ac789c6b6605c0
